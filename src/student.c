@@ -3,6 +3,15 @@
 #include <string.h>
 #include "student.h"
 
+/**
+ * @file student.c
+ * \brief Implements functions for manipulating Student struct.
+ * This file contains implementations of functions for adding grades to a student, calculating
+ * their average grade, printing a student's information, and generating a random student.
+ * @author Gurman Johal
+ * @date March 30, 2023
+ */
+
 void add_grade(Student* student, double grade)
 {
   student->num_grades++;

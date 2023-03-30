@@ -1,6 +1,16 @@
 #include "course.h"
 #include <stdlib.h>
 #include <stdio.h>
+
+/**
+ * @file course.c
+ * \brief Implementation of functions related to Course struct
+ * This file contains the implementation of functions related to the Course struct,
+ * which represents a course in a university, and its operations such as enrolling students,
+ * printing course details, finding top student, and passing students.
+ * @author Gurman Johal
+ * @date March 30, 2023
+*/
  
 void enroll_student(Course *course, Student *student)
 {

@@ -5,6 +5,19 @@
 #include "time.h"
 #include "course.h"
 
+/**
+ * @file main.c
+ * \brief Main function that runs the program.
+ * 
+ * This function creates a course, enrolls students, prints the course
+ * information, finds the top student, and prints a list of passing
+ * students.
+ *
+ * @return 0 for successful execution.
+ * @author Gurman Johal
+ * @date March 30, 2023
+ */
+
 int main()
 {
   srand((unsigned) time(NULL));
