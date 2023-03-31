@@ -23,8 +23,8 @@ To use this software, use the main exectuable in the `build` directory
 # Troubleshooting
 If you experience any issues while running the program, please try the following:
 
-Make sure you have compiled the code correctly
-Check that your input commands are correct and spelled correctly
+Make sure you have compiled the code correctly\n
+Check that your input commands are correct and spelled correctly\n
 Ensure that you have provided the correct input parameters when required
 
 # Changelog
