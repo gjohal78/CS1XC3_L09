@@ -5,6 +5,11 @@
  * @author Gurman Johal
  * @date March 30, 2023
  */
+
+/**
+ * \brief The Student struct represents a student, containing their first and last name, ID, grades, and the number of grades.
+ */
+
 typedef struct _student 
 { 
   char first_name[50]; /**< The student's first name */

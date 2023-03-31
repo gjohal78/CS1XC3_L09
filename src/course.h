@@ -12,6 +12,10 @@
  * @date March 30, 2023
  */
 
+/**
+ * \brief The Course struct represents a course with a name, code, and a list of students.
+ */
+
 typedef struct _course 
 {
   char name[100]; /**< The name of the course. */
